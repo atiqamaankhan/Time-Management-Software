@@ -13,3 +13,9 @@ It helps users **organize tasks, set deadlines, and receive notifications** to i
 - **Reminders** – Desktop notifications when a task is due.  
 - **Persistent Storage** – All tasks are saved in a `JSON` file (`tasks.json`) so they remain after restarting the app.  
 - **Simple GUI** – User-friendly interface built with `tkinter`.  
+
+---
+
+##Install required packages
+- **pip install plyer**
+
